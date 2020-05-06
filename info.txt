@@ -1,0 +1,3 @@
+this is about making 
+fotomatic site
+example from 'CodeCademy'
