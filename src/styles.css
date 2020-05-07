@@ -1,5 +1,6 @@
 @import "./reset.css";
 @import "./tablet.css";
+@import "./modlie.css";
 
 html {
   font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -47,9 +48,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: url(../images/banner-landingpage.jpg);
-}
-.big__image {
-  width: 100%;
 }
 
 .big__text {
