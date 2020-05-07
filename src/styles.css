@@ -1,4 +1,5 @@
 @import "./reset.css";
+@import "./tablet.css";
 
 html {
   font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
