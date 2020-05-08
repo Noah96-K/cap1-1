@@ -63,7 +63,7 @@ html {
   }
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 480px) {
   .about {
     display: none;
   }
@@ -169,7 +169,7 @@ em {
     display: none;
   }
 }
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 480px) {
   .big__picture {
     height: 290px;
   }
