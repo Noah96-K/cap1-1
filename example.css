@@ -1,0 +1,32 @@
+table,
+td {
+  border: 1px solid black;
+}
+
+.exam {
+  background-color: grey;
+  width: 10rem;
+  height: 5rem;
+}
+.exam:hover {
+  animation: 2s ani infinite ease-in-out;
+}
+.exam-two {
+  background-color: peru;
+  width: 10rem;
+  height: 5rem;
+}
+
+.exam-two:hover {
+  background-color: pink;
+  transition: background-color 2s ease-in-out;
+}
+@keyframes ani {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotate(2turn);
+    background-color: bisque;
+  }
+}
